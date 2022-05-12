@@ -15,9 +15,9 @@ INSTRUCTIONS TO BUILD AND RUN
 
 In the terminal write docker-compose up 
 
-via postman
+via postman:
 
-then go to localhost:8080/insert    : post request
+localhost:8080/insert    : post request
 
 and put the next content in the body:
 
@@ -29,7 +29,7 @@ and put the next content in the body:
  "i love schenizel"
 ]
 
-after that go to localhost:8080/search
+after that go to localhost:8080/search  :get request
 
 and insert a string "harry is spring"
 
