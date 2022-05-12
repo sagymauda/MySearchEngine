@@ -17,7 +17,9 @@ In the terminal write docker-compose up
 
 via postman:
 
-localhost:8080/insert                                   : post request
+
+  post request
+localhost:8080/insert                                 
 
 and put the next content in the body:
 
@@ -29,7 +31,8 @@ and put the next content in the body:
  "i love schenizel"
 ]
 
-after that go to localhost:8080/search                            :get request
+ get request
+localhost:8080/search                        
 
 and insert a string "harry is spring"
 
