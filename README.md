@@ -11,7 +11,9 @@ decisions i made was to deal with upper and lower case, another decisions was to
 
 
 INSTRUCTIONS TO BUILD AND RUN 
-in the terminal write docker-compose up 
+
+
+In the terminal write docker-compose up 
 
 via postman
 
